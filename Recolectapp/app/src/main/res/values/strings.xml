@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recolectapp</string>
+    <string name="title_activity_mainactivity">RecolectAPP</string>
+    <string name="google_app_id">recolectapp</string>
+</resources>
